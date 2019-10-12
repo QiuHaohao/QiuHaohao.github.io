@@ -1,0 +1,15 @@
+{
+  "short_name": "Facial Attendance",
+  "name": "Facial Attendance",
+  "icons": [
+    {
+      "src": "logo_small.png",
+      "type": "image/png",
+      "sizes": "78x77"
+    }	    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
